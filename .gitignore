@@ -1,0 +1,21 @@
+# Ignore all
+*
+
+# Unignore all with extensions
+!*.*
+
+# Ignore logs
+*.log
+
+# Unignore dirs
+!bin/
+!config/
+!mods/
+!resourcepacks/
+!resources/
+
+# Unignore files
+!servers.dat
+!optionsof.txt
+!options.txt
+!BotaniaVars.dat
