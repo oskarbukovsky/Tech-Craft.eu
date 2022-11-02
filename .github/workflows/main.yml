@@ -32,14 +32,10 @@ jobs:
     steps:
     - uses: actions/checkout@master
       name: Archive Release
-    - name: Generate ZIP
-      uses: byteever/action-build-zip@master
-      with:
-        filename: 'Tech-Craft.eu_[1.12.2].zip'
     - name: Upload Release
       uses: ncipollo/release-action@v1
       with:
         commit: master
         tag: latest
-        artifacts: "."
+        artifacts: "${{ github.workspace }}/*"
         token: ${{ secrets.GITHUB_TOKEN }}
