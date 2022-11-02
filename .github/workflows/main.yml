@@ -9,5 +9,10 @@ jobs:
       uses: thedoctor0/zip-release@main
       with:
         type: 'zip'
-        filename: 'release.zip'
+        filename: 'Tech-Craft.eu_[1.12.2].zip'
         exclusions: '*.git* /*node_modules/* .editorconfig'
+    - name: Upload Release
+      uses: ncipollo/release-action@v1
+      with:
+        artifacts: "Tech-Craft.eu_[1.12.2].zip"
+        token: ${{ secrets.GITHUB_TOKEN }}
