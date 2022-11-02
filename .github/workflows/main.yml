@@ -31,14 +31,11 @@ jobs:
       contents: write
     steps:
     - uses: actions/checkout@master
-    - name: Archive Release
-      uses: thedoctor0/zip-release@main
+      name: Archive Release
+    - name: Compress
+      uses: TonyBogdanov/zip@1.0
       with:
-        path: '${{ github.workspace }}/*'
-        directory: '.'
-        type: 'zip'
-        filename: 'Tech-Craft.eu_[1.12.2].zip'
-        exclusions: '*.git* /*node_modules/* .editorconfig'
+        args: "zip -r Tech-Craft.eu_[1.12.2].zip ."
     - name: Upload Release
       uses: ncipollo/release-action@v1
       with:
