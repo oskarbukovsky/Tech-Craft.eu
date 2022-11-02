@@ -41,5 +41,5 @@ jobs:
       with:
         commit: master
         tag: latest
-        artifacts: "Tech-Craft.eu_[1.12.2].zip"
+        artifacts: "."
         token: ${{ secrets.GITHUB_TOKEN }}
