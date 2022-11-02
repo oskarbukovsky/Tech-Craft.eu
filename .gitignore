@@ -9,11 +9,11 @@
 usercache.json
 
 # Unignore dirs
-!bin/
-!config/
-!mods/
-!resourcepacks/
-!resources/
+!bin/*
+!config/*
+!mods/*
+!resourcepacks/*
+!resources/*
 
 # Unignore files
 !servers.dat
