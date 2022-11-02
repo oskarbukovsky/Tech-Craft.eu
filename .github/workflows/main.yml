@@ -5,11 +5,26 @@ jobs:
   tag:
       runs-on: ubuntu-latest
       steps:
-      - uses: actions/checkout@v2
-      - uses: Klemensas/action-autotag@stable
+      - name: Tag
+        uses: actions/github-script@v3
         with:
-          version: "${{ steps.previous_step.outputs.version }}"
-          GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
+          github-token: ${{secrets.GITHUB_TOKEN}}          
+          script: |
+            try {
+                await github.git.deleteRef({
+                  owner: context.repo.owner,
+                  repo: context.repo.repo,
+                  ref: "tags/latest"
+                })
+            } catch (e) {
+              console.log("The latest tag doesn't exist yet: " + e)
+            }
+            await github.git.createRef({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              ref: "refs/tags/latest",
+              sha: context.sha
+            })
   build:
     runs-on: ubuntu-latest
     permissions:
@@ -26,5 +41,6 @@ jobs:
       uses: ncipollo/release-action@v1
       with:
         commit: master
+        tag: latest
         artifacts: "Tech-Craft.eu_[1.12.2].zip"
         token: ${{ secrets.GITHUB_TOKEN }}
