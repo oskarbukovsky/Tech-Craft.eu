@@ -35,7 +35,7 @@ jobs:
     - name: Compress
       uses: TonyBogdanov/zip@1.0
       with:
-        args: "cd $(ls -d */|head -n 1); zip -r Tech-Craft.eu_[1.12.2].zip ."
+        args: "zip -r Tech-Craft.eu_[1.12.2].zip ../"
     - name: Upload Release
       uses: ncipollo/release-action@v1
       with:
