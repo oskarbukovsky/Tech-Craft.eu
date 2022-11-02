@@ -37,7 +37,7 @@ jobs:
         path: '${{ github.workspace }}/*'
         directory: '../.'
         type: 'zip'
-        filename: './Tech-Craft.eu_[1.12.2].zip'
+        filename: '${{ github.workspace }}/Tech-Craft.eu_[1.12.2].zip'
         exclusions: '*.git* /*node_modules/* .editorconfig'
     - name: Upload Release
       uses: ncipollo/release-action@v1
