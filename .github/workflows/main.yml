@@ -32,10 +32,17 @@ jobs:
     steps:
     - uses: actions/checkout@master
       name: Archive Release
+    - uses: thedoctor0/zip-release@main
+      with:
+        path: '${{ github.workspace }}/*'
+        directory: '.'
+        type: 'zip'
+        filename: 'Tech-Craft.eu_[1.12.2].zip'
+        exclusions: '*.git* /*node_modules/* .editorconfig'
     - name: Upload Release
       uses: ncipollo/release-action@v1
       with:
         commit: master
         tag: latest
-        artifacts: "${{ github.workspace }}/**"
+        artifacts: "${{ github.workspace }}/Tech-Craft.eu_[1.12.2].zip"
         token: ${{ secrets.GITHUB_TOKEN }}
