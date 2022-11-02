@@ -4,9 +4,6 @@
 # Unignore all with extensions
 !*.*
 
-# Ignore logs
-*.log
-usercache.json
 
 # Unignore dirs
 !bin/*
@@ -20,3 +17,8 @@ usercache.json
 !optionsof.txt
 !options.txt
 !BotaniaVars.dat
+
+# Ignore files
+*.log
+usercache.json
+config/thaumicjei_itemstack_aspects.json
