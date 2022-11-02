@@ -34,7 +34,7 @@ jobs:
     - name: Archive Release
       uses: thedoctor0/zip-release@main
       with:
-        path: './Tech-Craft.eu-latest'
+        path: '.'
         directory: './Tech-Craft.eu-latest'
         type: 'zip'
         filename: 'Tech-Craft.eu_[1.12.2].zip'
