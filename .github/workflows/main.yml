@@ -35,7 +35,7 @@ jobs:
     - uses: thedoctor0/zip-release@main
       with:
         path: '${{ github.workspace }}/*'
-        directory: '.'
+        directory: '../.'
         type: 'zip'
         filename: './Tech-Craft.eu_[1.12.2].zip'
         exclusions: '*.git* /*node_modules/* .editorconfig'
