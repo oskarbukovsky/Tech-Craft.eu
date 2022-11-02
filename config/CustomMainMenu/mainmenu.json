@@ -1,0 +1,143 @@
+{
+  "images": {
+    "black": {
+      "image": "menu:textures/gui/transparent.png",
+      "posX": 30,
+      "posY": 0,
+      "width": 160,
+      "height": 2000,
+      "alignment": "top_left"
+    },
+
+    "logo": {
+      "image": "menu:textures/gui/logo.png",
+      "posX": 30,
+      "posY": 10,
+      "width": 160,
+      "height": 72,
+      "alignment": "top_left"
+    }
+  },
+
+  "buttons": {
+    "singleplayer": {
+      "text": "menu.singleplayer",
+      "posX": 40,
+      "posY": -35,
+      "width": 140,
+      "height": 20,
+      "alignment": "left_center",
+      "action": {
+        "type": "openGui",
+        "gui": "singleplayer"
+      }
+    },
+
+    "multiplayer": {
+      "text": "menu.multiplayer",
+      "posX": 40,
+      "posY": -10,
+      "width": 140,
+      "height": 20,
+      "alignment": "left_center",
+      "action": {
+        "type": "openGui",
+        "gui": "multiplayer"
+      }
+    },
+
+    "Tech-Craft": {
+      "text": "Tech-Craft.eu",
+      "posX": 40,
+      "posY": 15,
+      "width": 140,
+      "height": 20,
+      "alignment": "left_center",
+      "action": {
+        "type": "connectToServer",
+        "ip": "play.tech-craft.eu"
+      }
+    },
+
+    "mods": {
+      "text": "fml.menu.mods",
+      "posX": 40,
+      "posY": 40,
+      "width": 140,
+      "height": 20,
+      "alignment": "left_center",
+      "action": {
+        "type": "openGui",
+        "gui": "mods"
+      }
+    },
+
+    "options": {
+      "text": "Options",
+      "posX": 40,
+      "posY": -25,
+      "width": 60,
+      "height": 20,
+      "alignment": "bottom_left",
+      "action": {
+        "type": "openGui",
+        "gui": "options"
+      }
+    },
+
+    "language": {
+      "text": "",
+      "posX": 105,
+      "posY": -25,
+      "width": 20,
+      "height": 20,
+      "alignment": "bottom_left",
+      "action": {
+        "type": "openGui",
+        "gui": "languages"
+      }
+    },
+
+    "quit": {
+      "text": "Quit",
+      "posX": 130,
+      "posY": -25,
+      "width": 50,
+      "height": 20,
+      "alignment": "bottom_left",
+      "action": {
+        "type": "quit"
+      }
+    },
+
+    "Discord": {
+      "text": "Discord",
+      "hoverText": "Discord",
+      "alignment": "bottom_right",
+      "posX": -100,
+      "posY": 2,
+      "width": 98,
+      "height": 20,
+      "action": {
+        "type": "openLink",
+        "link": "https://discord.gg/3HHmKrCQSS"
+      }
+    }
+  },
+
+  "other": {
+    "background": {
+      "image": "",
+      "slideshow": {
+        "images": [
+          "menu:slides/1.jpg",
+          "menu:slides/2.jpg",
+          "menu:slides/3.jpg"
+        ],
+        "displayDuration": 200,
+        "fadeDuration": 40,
+        "shuffle": true
+      }
+    }
+  }
+}

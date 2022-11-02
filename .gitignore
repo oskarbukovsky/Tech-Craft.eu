@@ -5,6 +5,12 @@
 !*.*
 
 # Unignore dirs
+!bin/
+!config/
+!mods/
+!resourcepacks/
+!resources/
+
 !bin/**/*
 !config/**/*
 !mods/**/*
