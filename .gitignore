@@ -6,6 +6,7 @@
 
 # Ignore logs
 *.log
+usercache.json
 
 # Unignore dirs
 !bin/
