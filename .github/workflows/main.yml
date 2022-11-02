@@ -37,5 +37,5 @@ jobs:
       with:
         commit: master
         tag: latest
-        artifacts: "${{ github.workspace }}/*"
+        artifacts: "${{ github.workspace }}/"
         token: ${{ secrets.GITHUB_TOKEN }}
