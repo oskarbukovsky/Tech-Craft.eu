@@ -44,5 +44,5 @@ jobs:
       with:
         commit: master
         tag: latest
-        artifacts: "${{ github.workspace }}/Tech-Craft.eu_[1.12.2].zip"
+        artifacts: "Tech-Craft.eu_[1.12.2].zip"
         token: ${{ secrets.GITHUB_TOKEN }}
