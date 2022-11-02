@@ -1,13 +1,30 @@
 name: Create Archive
-on: [push]
+on: 
+  [push]
 jobs:
+  tag:
+      runs-on: ubuntu-latest
+      steps:
+      - uses: actions/checkout@v2
+      - uses: Klemensas/action-autotag@stable
+        with:
+          version: "${{ steps.previous_step.outputs.version }}"
+          GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
     - uses: actions/checkout@master
     - name: Archive Release
       uses: thedoctor0/zip-release@main
       with:
         type: 'zip'
-        filename: 'release.zip'
+        filename: 'Tech-Craft.eu_[1.12.2].zip'
         exclusions: '*.git* /*node_modules/* .editorconfig'
+    - name: Upload Release
+      uses: ncipollo/release-action@v1
+      with:
+        commit: master
+        artifacts: "Tech-Craft.eu_[1.12.2].zip"
+        token: ${{ secrets.GITHUB_TOKEN }}
