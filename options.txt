@@ -96,8 +96,6 @@ key_Misc Caster Toggle:34
 key_keybind.baublesinventory:48
 key_key.toggle_shaders:0
 key_key.betterfoliage.gui:66
-key_MoCreatures Dive:44
-key_MoCreatures GUI:100
 key_key.xu2.searchforitems:20
 key_key.ftbutilities.nbt:49:ALT
 key_key.ftbutilities.trash:211

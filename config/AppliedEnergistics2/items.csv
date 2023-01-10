@@ -9802,16 +9802,6 @@ appliedenergistics2:facade:0, Cable Facade - Brownstone Creeperface
 appliedenergistics2:facade:0, Cable Facade - Triangle Brownstone Bricks
 appliedenergistics2:facade:0, Cable Facade - Small Brownstone Bricks
 appliedenergistics2:facade:0, Cable Facade - Brownstone Tiles
-appliedenergistics2:facade:0, Cable Facade - WyvernLair Stone
-appliedenergistics2:facade:0, Cable Facade - OgreLair Stone
-appliedenergistics2:facade:0, Cable Facade - WyvernLair Grass
-appliedenergistics2:facade:0, Cable Facade - OgreLair Grass
-appliedenergistics2:facade:0, Cable Facade - WyvernLair Dirt
-appliedenergistics2:facade:0, Cable Facade - OgreLair Dirt
-appliedenergistics2:facade:0, Cable Facade - WyvernLair Log
-appliedenergistics2:facade:0, Cable Facade - OgreLair Log
-appliedenergistics2:facade:0, Cable Facade - WyvernLair Wood Plank
-appliedenergistics2:facade:0, Cable Facade - OgreLair Wood Plank
 appliedenergistics2:facade:0, Cable Facade - White Lamp
 appliedenergistics2:facade:0, Cable Facade - Orange Lamp
 appliedenergistics2:facade:0, Cable Facade - Yellorite Ore
@@ -11813,34 +11803,34 @@ tconstruct:slime_vine_purple_end:0, Purple Slimy Vine
 tconstruct:slime_vine_purple_mid:0, Purple Slimy Vine
 tconstruct:slime_vine_purple:0, Purple Slimy Vine
 tconstruct:pattern:0, Blank Pattern
-tconstruct:pattern:0, Large Plate Pattern
-tconstruct:pattern:0, Cross Guard Pattern
-tconstruct:pattern:0, Wide Guard Pattern
-tconstruct:pattern:0, Scythe Head Pattern
-tconstruct:pattern:0, Hand Guard Pattern
-tconstruct:pattern:0, Sign Plate Pattern
-tconstruct:pattern:0, Bowlimb Pattern
-tconstruct:pattern:0, Tool Rod Pattern
-tconstruct:pattern:0, Arrow Shaft Pattern
-tconstruct:pattern:0, Sharpening Kit Pattern
 tconstruct:pattern:0, Tough Binding Pattern
-tconstruct:pattern:0, Knife Blade Pattern
 tconstruct:pattern:0, Excavator Head Pattern
-tconstruct:pattern:0, Binding Pattern
-tconstruct:pattern:0, Large Sword Blade Pattern
-tconstruct:pattern:0, Shard Pattern
-tconstruct:pattern:0, Axe Head Pattern
-tconstruct:pattern:0, Hammer Head Pattern
-tconstruct:pattern:0, Fletching Pattern
-tconstruct:pattern:0, Bowstring Pattern
-tconstruct:pattern:0, Arrow Head Pattern
-tconstruct:pattern:0, Pan Pattern
-tconstruct:pattern:0, Broad Axe Head Pattern
-tconstruct:pattern:0, Sword Blade Pattern
+tconstruct:pattern:0, Wide Guard Pattern
 tconstruct:pattern:0, Shovel Head Pattern
-tconstruct:pattern:0, Pickaxe Head Pattern
+tconstruct:pattern:0, Axe Head Pattern
+tconstruct:pattern:0, Knife Blade Pattern
+tconstruct:pattern:0, Broad Axe Head Pattern
+tconstruct:pattern:0, Cross Guard Pattern
+tconstruct:pattern:0, Fletching Pattern
+tconstruct:pattern:0, Scythe Head Pattern
+tconstruct:pattern:0, Arrow Shaft Pattern
 tconstruct:pattern:0, Tough Tool Rod Pattern
+tconstruct:pattern:0, Pan Pattern
+tconstruct:pattern:0, Sharpening Kit Pattern
 tconstruct:pattern:0, Kama Head Pattern
+tconstruct:pattern:0, Binding Pattern
+tconstruct:pattern:0, Bowlimb Pattern
+tconstruct:pattern:0, Pickaxe Head Pattern
+tconstruct:pattern:0, Hand Guard Pattern
+tconstruct:pattern:0, Arrow Head Pattern
+tconstruct:pattern:0, Large Plate Pattern
+tconstruct:pattern:0, Shard Pattern
+tconstruct:pattern:0, Sword Blade Pattern
+tconstruct:pattern:0, Tool Rod Pattern
+tconstruct:pattern:0, Large Sword Blade Pattern
+tconstruct:pattern:0, Hammer Head Pattern
+tconstruct:pattern:0, Sign Plate Pattern
+tconstruct:pattern:0, Bowstring Pattern
 tconstruct:shard:0, Electrical Shard
 tconstruct:shard:0, Energetic Shard
 tconstruct:shard:0, Vibrant Shard
@@ -13170,64 +13160,64 @@ tconstruct:seared_stairs_road:0, Seared Road Stairs
 tconstruct:seared_stairs_tile:0, Seared Tile Stairs
 tconstruct:seared_stairs_creeper:0, Seared Creeperface Stairs
 tconstruct:cast:0, Blank Cast
-tconstruct:cast:0, Large Plate Cast
-tconstruct:cast:0, Cross Guard Cast
-tconstruct:cast:0, Wide Guard Cast
-tconstruct:cast:0, Scythe Head Cast
-tconstruct:cast:0, Hand Guard Cast
-tconstruct:cast:0, Sign Plate Cast
-tconstruct:cast:0, Bowlimb Cast
-tconstruct:cast:0, Tool Rod Cast
-tconstruct:cast:0, Sharpening Kit Cast
 tconstruct:cast:0, Tough Binding Cast
-tconstruct:cast:0, Knife Blade Cast
 tconstruct:cast:0, Excavator Head Cast
-tconstruct:cast:0, Binding Cast
-tconstruct:cast:0, Large Sword Blade Cast
-tconstruct:cast:0, Shard Cast
-tconstruct:cast:0, Axe Head Cast
-tconstruct:cast:0, Hammer Head Cast
-tconstruct:cast:0, Bowstring Cast
-tconstruct:cast:0, Arrow Head Cast
-tconstruct:cast:0, Pan Cast
-tconstruct:cast:0, Broad Axe Head Cast
-tconstruct:cast:0, Sword Blade Cast
+tconstruct:cast:0, Wide Guard Cast
 tconstruct:cast:0, Shovel Head Cast
-tconstruct:cast:0, Pickaxe Head Cast
+tconstruct:cast:0, Axe Head Cast
+tconstruct:cast:0, Knife Blade Cast
+tconstruct:cast:0, Broad Axe Head Cast
+tconstruct:cast:0, Cross Guard Cast
+tconstruct:cast:0, Scythe Head Cast
 tconstruct:cast:0, Tough Tool Rod Cast
+tconstruct:cast:0, Pan Cast
+tconstruct:cast:0, Sharpening Kit Cast
 tconstruct:cast:0, Kama Head Cast
+tconstruct:cast:0, Binding Cast
+tconstruct:cast:0, Bowlimb Cast
+tconstruct:cast:0, Pickaxe Head Cast
+tconstruct:cast:0, Hand Guard Cast
+tconstruct:cast:0, Arrow Head Cast
+tconstruct:cast:0, Large Plate Cast
+tconstruct:cast:0, Shard Cast
+tconstruct:cast:0, Sword Blade Cast
+tconstruct:cast:0, Tool Rod Cast
+tconstruct:cast:0, Large Sword Blade Cast
+tconstruct:cast:0, Hammer Head Cast
+tconstruct:cast:0, Sign Plate Cast
+tconstruct:cast:0, Bowstring Cast
 tconstruct:cast_custom:0, Ingot Cast
 tconstruct:cast_custom:1, Nugget Cast
 tconstruct:cast_custom:2, Gem Cast
 tconstruct:cast_custom:3, Plate Cast
 tconstruct:cast_custom:4, Gear Cast
 tconstruct:clay_cast:0, item.tconstruct.clay_cast.blank
-tconstruct:clay_cast:0, Large Plate Clay Cast
-tconstruct:clay_cast:0, Cross Guard Clay Cast
-tconstruct:clay_cast:0, Wide Guard Clay Cast
-tconstruct:clay_cast:0, Scythe Head Clay Cast
-tconstruct:clay_cast:0, Hand Guard Clay Cast
-tconstruct:clay_cast:0, Sign Plate Clay Cast
-tconstruct:clay_cast:0, Bowlimb Clay Cast
-tconstruct:clay_cast:0, Tool Rod Clay Cast
-tconstruct:clay_cast:0, Sharpening Kit Clay Cast
 tconstruct:clay_cast:0, Tough Binding Clay Cast
-tconstruct:clay_cast:0, Knife Blade Clay Cast
 tconstruct:clay_cast:0, Excavator Head Clay Cast
-tconstruct:clay_cast:0, Binding Clay Cast
-tconstruct:clay_cast:0, Large Sword Blade Clay Cast
-tconstruct:clay_cast:0, Shard Clay Cast
-tconstruct:clay_cast:0, Axe Head Clay Cast
-tconstruct:clay_cast:0, Hammer Head Clay Cast
-tconstruct:clay_cast:0, Bowstring Clay Cast
-tconstruct:clay_cast:0, Arrow Head Clay Cast
-tconstruct:clay_cast:0, Pan Clay Cast
-tconstruct:clay_cast:0, Broad Axe Head Clay Cast
-tconstruct:clay_cast:0, Sword Blade Clay Cast
+tconstruct:clay_cast:0, Wide Guard Clay Cast
 tconstruct:clay_cast:0, Shovel Head Clay Cast
-tconstruct:clay_cast:0, Pickaxe Head Clay Cast
+tconstruct:clay_cast:0, Axe Head Clay Cast
+tconstruct:clay_cast:0, Knife Blade Clay Cast
+tconstruct:clay_cast:0, Broad Axe Head Clay Cast
+tconstruct:clay_cast:0, Cross Guard Clay Cast
+tconstruct:clay_cast:0, Scythe Head Clay Cast
 tconstruct:clay_cast:0, Tough Tool Rod Clay Cast
+tconstruct:clay_cast:0, Pan Clay Cast
+tconstruct:clay_cast:0, Sharpening Kit Clay Cast
 tconstruct:clay_cast:0, Kama Head Clay Cast
+tconstruct:clay_cast:0, Binding Clay Cast
+tconstruct:clay_cast:0, Bowlimb Clay Cast
+tconstruct:clay_cast:0, Pickaxe Head Clay Cast
+tconstruct:clay_cast:0, Hand Guard Clay Cast
+tconstruct:clay_cast:0, Arrow Head Clay Cast
+tconstruct:clay_cast:0, Large Plate Clay Cast
+tconstruct:clay_cast:0, Shard Clay Cast
+tconstruct:clay_cast:0, Sword Blade Clay Cast
+tconstruct:clay_cast:0, Tool Rod Clay Cast
+tconstruct:clay_cast:0, Large Sword Blade Clay Cast
+tconstruct:clay_cast:0, Hammer Head Clay Cast
+tconstruct:clay_cast:0, Sign Plate Clay Cast
+tconstruct:clay_cast:0, Bowstring Clay Cast
 tconstruct:stone_torch:0, Stone Torch
 tconstruct:stone_ladder:0, Stone Ladder
 tconstruct:punji:0, Punji Sticks
@@ -13308,195 +13298,6 @@ tconstruct:moms_spaghetti, Mom's Spaghetti
 ae2wtlib:infinity_booster_card, Infinity Booster Card
 ae2wtlib:wut, Wireless Ultimate Terminal
 ae2wtlib:wut_creative, Creative Wireless Ultimate Terminal
-mocreatures:mocstone:0, WyvernLair Stone
-mocreatures:mocstone:1, OgreLair Stone
-mocreatures:mocgrass:0, WyvernLair Grass
-mocreatures:mocgrass:1, OgreLair Grass
-mocreatures:mocdirt:0, WyvernLair Dirt
-mocreatures:mocdirt:1, OgreLair Dirt
-mocreatures:mocleaves:0, WyvernLair Leaves
-mocreatures:mocleaves:1, OgreLair Leaves
-mocreatures:moclog:0, WyvernLair Log
-mocreatures:moclog:1, OgreLair Log
-mocreatures:moctallgrass:0, WyvernLair Tall Grass
-mocreatures:moctallgrass:1, OgreLair Tall Grass
-mocreatures:mocwoodplank:0, WyvernLair Wood Plank
-mocreatures:mocwoodplank:1, OgreLair Wood Plank
-mocreatures:kittybed_white, White Kitty Bed
-mocreatures:kittybed_orange, Orange Kitty Bed
-mocreatures:kittybed_magenta, Magenta Kitty Bed
-mocreatures:kittybed_light_blue, item.kittybed_light_blue.name
-mocreatures:kittybed_yellow, Yellow Kitty Bed
-mocreatures:kittybed_lime, Lime Kitty Bed
-mocreatures:kittybed_pink, Pink Kitty Bed
-mocreatures:kittybed_gray, Gray Kitty Bed
-mocreatures:kittybed_silver, Silver Kitty Bed
-mocreatures:kittybed_cyan, Cyan Kitty Bed
-mocreatures:kittybed_purple, Purple Kitty Bed
-mocreatures:kittybed_blue, Blue Kitty Bed
-mocreatures:kittybed_brown, Brown Kitty Bed
-mocreatures:kittybed_green, Green Kitty Bed
-mocreatures:kittybed_red, Red Kitty Bed
-mocreatures:kittybed_black, Black Kitty Bed
-mocreatures:horsesaddle, Crafted Saddle
-mocreatures:sharkteeth, Shark Teeth
-mocreatures:haystack, Hay Stack
-mocreatures:sugarlump, Sugar Lump
-mocreatures:mocegg:0, Blue Fish Egg
-mocreatures:mocegg:1, Regal Blue Fish Egg
-mocreatures:mocegg:2, Orange White Stripe Fish Egg
-mocreatures:mocegg:3, Light Blue Fish Egg
-mocreatures:mocegg:4, Green Yellow Fish Egg
-mocreatures:mocegg:5, Green Fish Egg
-mocreatures:mocegg:6, Purple Fish Egg
-mocreatures:mocegg:7, Yellow Fish Egg
-mocreatures:mocegg:8, Orange Blue Stripe Fish Egg
-mocreatures:mocegg:9, Black White Fish Egg
-mocreatures:mocegg:80, Anchovy Egg
-mocreatures:mocegg:81, Angelfish Egg
-mocreatures:mocegg:82, Angler Egg
-mocreatures:mocegg:83, Clownfish Egg
-mocreatures:mocegg:84, Goldfish Egg
-mocreatures:mocegg:85, Hippotang Egg
-mocreatures:mocegg:86, Manderin Egg
-mocreatures:mocegg:70, Salmon Egg
-mocreatures:mocegg:71, Cod Egg
-mocreatures:mocegg:72, Bass Egg
-mocreatures:mocegg:90, Piranha Egg
-mocreatures:mocegg:11, Shark Egg
-mocreatures:mocegg:21, Dark Snake Egg
-mocreatures:mocegg:22, Spotted Snake Egg
-mocreatures:mocegg:23, Orange Snake Egg
-mocreatures:mocegg:24, Green Snake Egg
-mocreatures:mocegg:25, Coral Snake Egg
-mocreatures:mocegg:26, Cobra Snake Egg
-mocreatures:mocegg:27, Rattle Snake Egg
-mocreatures:mocegg:30, Ostrich Egg
-mocreatures:mocegg:31, Ostrich Egg
-mocreatures:mocegg:33, Komodo Egg
-mocreatures:mocegg:41, Dirt Scorpion Egg
-mocreatures:mocegg:42, Cave Scorpion Egg
-mocreatures:mocegg:43, Nether Scorpion Egg
-mocreatures:mocegg:44, Frost Scorpion Egg
-mocreatures:mocegg:45, Undead Scorpion Egg
-mocreatures:mocegg:50, Jungle Wyvern Egg
-mocreatures:mocegg:51, Swamp Wyvern Egg
-mocreatures:mocegg:52, Savanna Wyvern Egg
-mocreatures:mocegg:53, Sand Wyvern Egg
-mocreatures:mocegg:54, Mother Wyvern Egg
-mocreatures:mocegg:55, Undead Wyvern Egg
-mocreatures:mocegg:56, Light Wyvern Egg
-mocreatures:mocegg:57, Dark Wyvern Egg
-mocreatures:mocegg:58, Arctic Wyvern Egg
-mocreatures:mocegg:59, Cave Wyvern Egg
-mocreatures:mocegg:60, Mountain Wyvern Egg
-mocreatures:mocegg:61, Sea Wyvern Egg
-mocreatures:mocegg:62, Fire Manticore Egg
-mocreatures:mocegg:63, Dark Manticore Egg
-mocreatures:mocegg:64, Snow Manticore Egg
-mocreatures:bigcatclaw, BigCat Claw
-mocreatures:whip, Whip
-mocreatures:medallion, Medallion
-mocreatures:kittylitter, Litter Box
-mocreatures:woolball, Wool Ball
-mocreatures:petfood, Pet Food
-mocreatures:reptilehide, Reptile Hide
-mocreatures:reptileplate, Reptile Plate
-mocreatures:reptilehelmet, Reptile Helmet
-mocreatures:reptilelegs, Reptile Legs
-mocreatures:reptileboots, Reptile Boots
-mocreatures:fur, Fur
-mocreatures:omelet, Omelet
-mocreatures:turtleraw, Raw Turtle
-mocreatures:turtlesoup, Turtle Soup
-mocreatures:staffportal, Wyvern Portal Staff
-mocreatures:staffteleport, Staff Teleport
-mocreatures:builderhammer, Builder Hammer
-mocreatures:nunchaku, Nunchaku
-mocreatures:sai, Sai
-mocreatures:bo, Bo
-mocreatures:katana, Katana
-mocreatures:sharksword, Shark Sword
-mocreatures:silversword, Silver Sword
-mocreatures:essencedarkness, Essence of Darkness
-mocreatures:essencefire, Essence of Fire
-mocreatures:essenceundead, Essence of Undead
-mocreatures:essencelight, Essence of Light
-mocreatures:amuletbone:0, Bone Amulet
-mocreatures:amuletbonefull:0, Bone Amulet
-mocreatures:amuletghost:0, Ghost Amulet
-mocreatures:amuletghostfull:0, Ghost Amulet
-mocreatures:amuletfairy:0, Fairy Amulet
-mocreatures:amuletfairyfull:0, Fairy Amulet
-mocreatures:amuletpegasus:0, Sky Amulet
-mocreatures:amuletpegasusfull:0, Sky Amulet
-mocreatures:fishnet:0, Fish Net
-mocreatures:fishnetfull:0, Fish Net
-mocreatures:petamulet:0, Pet Amulet
-mocreatures:petamuletfull:0, Pet Amulet
-mocreatures:furchest, Fur Chest
-mocreatures:furhelmet, Fur Helmet
-mocreatures:furlegs, Fur Legs
-mocreatures:furboots, Fur Boots
-mocreatures:heartdarkness, Heart of Darkness
-mocreatures:heartfire, Heart of Fire
-mocreatures:heartundead, Heart of Undead
-mocreatures:ostrichraw, Raw Ostrich
-mocreatures:ostrichcooked, Cooked Ostrich
-mocreatures:unicornhorn, Unicorn Horn
-mocreatures:horsearmorcrystal, Crystal Mount Armor
-mocreatures:recordshuffle, Zebra Record
-mocreatures:hide, Hide
-mocreatures:turkeyraw, Raw Turkey
-mocreatures:turkeycooked, Cooked Turkey
-mocreatures:hidechest, Hide Chest
-mocreatures:hidehelmet, Hide Helmet
-mocreatures:hidelegs, Hide Legs
-mocreatures:hideboots, Hide Boots
-mocreatures:ratraw, Raw Rat
-mocreatures:ratcooked, Cooked Rat
-mocreatures:ratburger, Rat Burger
-mocreatures:chitinblack, Chitin Black
-mocreatures:chitinfrost, Chitin Frost
-mocreatures:chitinnether, Chitin Nether
-mocreatures:chitin, Chitin
-mocreatures:scorpsworddirt, Dirt Scorpion Sword
-mocreatures:scorpswordfrost, Frost Scorpion Sword
-mocreatures:scorpswordcave, Cave Scorpion Sword
-mocreatures:scorpswordnether, Nether Scorpion Sword
-mocreatures:scorpplatedirt, Dirt Scorpion Plate Chest
-mocreatures:scorphelmetdirt, Dirt Scorpion Helmet
-mocreatures:scorplegsdirt, Dirt Scorpion Legs
-mocreatures:scorpbootsdirt, Dirt Scorpion Boots
-mocreatures:scorpplatefrost, Frost Scorpion Plate Chest
-mocreatures:scorphelmetfrost, Frost Scorpion Helmet
-mocreatures:scorplegsfrost, Frost Scorpion Legs
-mocreatures:scorpbootsfrost, Frost Scorpion Boots
-mocreatures:scorpplatenether, Nether Scorpion Plate Chest
-mocreatures:scorphelmetnether, Nether Scorpion Helmet
-mocreatures:scorplegsnether, Nether Scorpion Legs
-mocreatures:scorpbootsnether, Nether Scorpion Boots
-mocreatures:scorphelmetcave, Cave Scorpion Helmet
-mocreatures:scorpplatecave, Cave Scorpion Plate Chest
-mocreatures:scorplegscave, Cave Scorpion Legs
-mocreatures:scorpbootscave, Cave Scorpion Boots
-mocreatures:scorpstingdirt, Dirt Scorpion Sting
-mocreatures:scorpstingfrost, Frost Scorpion Sting
-mocreatures:scorpstingcave, Cave Scorpion Sting
-mocreatures:scorpstingnether, Nether Scorpion Sting
-mocreatures:tuskswood, Wood Tusks
-mocreatures:tusksiron, Iron Tusks
-mocreatures:tusksdiamond, Diamond Tusks
-mocreatures:elephantchest, Elephant Chest
-mocreatures:elephantgarment, Elephant Garment
-mocreatures:elephantharness, Elephant Harness
-mocreatures:elephanthowdah, Elephant Howdah
-mocreatures:mammothplatform, Mammoth Platform
-mocreatures:scrolloffreedom, Scroll of Freedom
-mocreatures:scrollofsale, Scroll of Sale
-mocreatures:scrollofowner, Scroll of Reset Owner
-mocreatures:crabraw, Raw Crab
-mocreatures:crabcooked, Cooked Crab
 eplus:advanced_table, Advanced Enchantment Table
 eplus:decorative_book:0, Enchanting Plus Book
 eplus:decorative_book:1, Enchanting Book
@@ -14128,6 +13929,24 @@ ironbackpacks:upgrade:0, Damage Bar Upgrade
 ironbackpacks:upgrade:0, Latch Upgrade
 ironbackpacks:upgrade:0, Extra Upgrade Point
 ironbackpacks:upgrade:0, Everlasting Upgrade
+ironchest:iron_gold_chest_upgrade, Iron to Gold Chest Upgrade
+ironchest:gold_diamond_chest_upgrade, Gold to Diamond Chest Upgrade
+ironchest:copper_silver_chest_upgrade, Copper to Silver Chest Upgrade
+ironchest:silver_gold_chest_upgrade, Silver to Gold Chest Upgrade
+ironchest:copper_iron_chest_upgrade, Copper to Iron Chest Upgrade
+ironchest:diamond_crystal_chest_upgrade, Diamond to Crystal Chest Upgrade
+ironchest:wood_iron_chest_upgrade, Wood to Iron Chest Upgrade
+ironchest:wood_copper_chest_upgrade, Wood to Copper Chest Upgrade
+ironchest:diamond_obsidian_chest_upgrade, Diamond to Obsidian Chest Upgrade
+ironchest:iron_gold_shulker_upgrade, Iron to Gold Shulker Box Upgrade
+ironchest:gold_diamond_shulker_upgrade, Gold to Diamond Shulker Box Upgrade
+ironchest:copper_silver_shulker_upgrade, Copper to Silver Shulker Box Upgrade
+ironchest:silver_gold_shulker_upgrade, Silver to Gold Shulker Box Upgrade
+ironchest:copper_iron_shulker_upgrade, Copper to Iron Shulker Box Upgrade
+ironchest:diamond_crystal_shulker_upgrade, Diamond to Crystal Shulker Box Upgrade
+ironchest:vanilla_iron_shulker_upgrade, Vanilla to Iron Shulker Box Upgrade
+ironchest:vanilla_copper_shulker_upgrade, Vanilla to Copper Shulker Box Upgrade
+ironchest:diamond_obsidian_shulker_upgrade, Diamond to Obsidian Shulker Box Upgrade
 ironchest:iron_chest:0, Iron Chest
 ironchest:iron_chest:1, Gold Chest
 ironchest:iron_chest:2, Diamond Chest
@@ -14248,24 +14067,6 @@ ironchest:iron_shulker_box_black:3, Black Copper Shulker Box
 ironchest:iron_shulker_box_black:4, Black Silver Shulker Box
 ironchest:iron_shulker_box_black:5, Black Crystal Shulker Box
 ironchest:iron_shulker_box_black:6, Black Obsidian Shulker Box
-ironchest:iron_gold_chest_upgrade, Iron to Gold Chest Upgrade
-ironchest:gold_diamond_chest_upgrade, Gold to Diamond Chest Upgrade
-ironchest:copper_silver_chest_upgrade, Copper to Silver Chest Upgrade
-ironchest:silver_gold_chest_upgrade, Silver to Gold Chest Upgrade
-ironchest:copper_iron_chest_upgrade, Copper to Iron Chest Upgrade
-ironchest:diamond_crystal_chest_upgrade, Diamond to Crystal Chest Upgrade
-ironchest:wood_iron_chest_upgrade, Wood to Iron Chest Upgrade
-ironchest:wood_copper_chest_upgrade, Wood to Copper Chest Upgrade
-ironchest:diamond_obsidian_chest_upgrade, Diamond to Obsidian Chest Upgrade
-ironchest:iron_gold_shulker_upgrade, Iron to Gold Shulker Box Upgrade
-ironchest:gold_diamond_shulker_upgrade, Gold to Diamond Shulker Box Upgrade
-ironchest:copper_silver_shulker_upgrade, Copper to Silver Shulker Box Upgrade
-ironchest:silver_gold_shulker_upgrade, Silver to Gold Shulker Box Upgrade
-ironchest:copper_iron_shulker_upgrade, Copper to Iron Shulker Box Upgrade
-ironchest:diamond_crystal_shulker_upgrade, Diamond to Crystal Shulker Box Upgrade
-ironchest:vanilla_iron_shulker_upgrade, Vanilla to Iron Shulker Box Upgrade
-ironchest:vanilla_copper_shulker_upgrade, Vanilla to Copper Shulker Box Upgrade
-ironchest:diamond_obsidian_shulker_upgrade, Diamond to Obsidian Shulker Box Upgrade
 mekanism:electricbow, Electric Bow
 mekanism:dust:0, Iron Dust
 mekanism:dust:1, Gold Dust
@@ -15178,27 +14979,6 @@ spikemod:freezing_spike, Freezing Spike
 spikemod:extra_sharp_spike, Extra Sharp Spike
 spikemod:hot_spike, Hot Spike
 spikemod:looting_spike, Looting Spike
-storagedrawers:upgrade_template, Upgrade Template
-storagedrawers:upgrade_storage:0, Storage Upgrade (I)
-storagedrawers:upgrade_storage:1, Storage Upgrade (II)
-storagedrawers:upgrade_storage:2, Storage Upgrade (III)
-storagedrawers:upgrade_storage:3, Storage Upgrade (IV)
-storagedrawers:upgrade_storage:4, Storage Upgrade (V)
-storagedrawers:upgrade_one_stack, Storage Downgrade
-storagedrawers:upgrade_status:0, Status Upgrade (I)
-storagedrawers:upgrade_status:1, Status Upgrade (II)
-storagedrawers:upgrade_void, Void Upgrade
-storagedrawers:upgrade_conversion, Conversion Upgrade
-storagedrawers:upgrade_creative:0, Creative Storage Upgrade
-storagedrawers:upgrade_creative:1, Creative Vending Upgrade
-storagedrawers:upgrade_redstone:0, Redstone Upgrade
-storagedrawers:upgrade_redstone:1, Redstone Max Upgrade
-storagedrawers:upgrade_redstone:2, Redstone Min Upgrade
-storagedrawers:drawer_key, Drawer Key
-storagedrawers:shroud_key, Concealment Key
-storagedrawers:personal_key, Personal Key
-storagedrawers:quantify_key, Quantify Key
-storagedrawers:tape, Packing Tape
 storagedrawers:basicdrawers:0, Basic Drawer
 storagedrawers:basicdrawers:0, Basic Drawer
 storagedrawers:basicdrawers:0, Basic Drawer
@@ -15249,6 +15029,27 @@ storagedrawers:customdrawers:2, Framed Drawers 2x2
 storagedrawers:customdrawers:3, Framed Half Drawers 1x2
 storagedrawers:customdrawers:4, Framed Half Drawers 2x2
 storagedrawers:customtrim, Framed Trim
+storagedrawers:upgrade_template, Upgrade Template
+storagedrawers:upgrade_storage:0, Storage Upgrade (I)
+storagedrawers:upgrade_storage:1, Storage Upgrade (II)
+storagedrawers:upgrade_storage:2, Storage Upgrade (III)
+storagedrawers:upgrade_storage:3, Storage Upgrade (IV)
+storagedrawers:upgrade_storage:4, Storage Upgrade (V)
+storagedrawers:upgrade_one_stack, Storage Downgrade
+storagedrawers:upgrade_status:0, Status Upgrade (I)
+storagedrawers:upgrade_status:1, Status Upgrade (II)
+storagedrawers:upgrade_void, Void Upgrade
+storagedrawers:upgrade_conversion, Conversion Upgrade
+storagedrawers:upgrade_creative:0, Creative Storage Upgrade
+storagedrawers:upgrade_creative:1, Creative Vending Upgrade
+storagedrawers:upgrade_redstone:0, Redstone Upgrade
+storagedrawers:upgrade_redstone:1, Redstone Max Upgrade
+storagedrawers:upgrade_redstone:2, Redstone Min Upgrade
+storagedrawers:drawer_key, Drawer Key
+storagedrawers:shroud_key, Concealment Key
+storagedrawers:personal_key, Personal Key
+storagedrawers:quantify_key, Quantify Key
+storagedrawers:tape, Packing Tape
 tesseract:tesseract, Tesseract
 thaumicperiphery:pauldron, Pauldron
 thaumicperiphery:pauldron_repulsion, Pauldron of Repulsion

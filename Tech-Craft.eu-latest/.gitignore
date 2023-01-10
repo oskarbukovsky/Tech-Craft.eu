@@ -1,0 +1,29 @@
+# Ignore all
+*
+
+# Unignore all with extensions
+!*.*
+
+# Unignore dirs
+!bin/
+!config/
+!mods/
+!resourcepacks/
+!resources/
+
+!bin/**/*
+!config/**/*
+!mods/**/*
+!resourcepacks/**/*
+!resources/**/*
+
+# Unignore files
+!servers.dat
+!optionsof.txt
+!options.txt
+!BotaniaVars.dat
+
+# Ignore files
+*.log
+usercache.json
+config/thaumicjei_itemstack_aspects.json

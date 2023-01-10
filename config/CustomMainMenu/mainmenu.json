@@ -55,7 +55,7 @@
       "alignment": "left_center",
       "action": {
         "type": "connectToServer",
-        "ip": "play.tech-craft.eu"
+        "ip": "11.0.1.113:25569"
       }
     },
 
@@ -130,9 +130,7 @@
       "image": "",
       "slideshow": {
         "images": [
-          "menu:slides/1.jpg",
-          "menu:slides/2.jpg",
-          "menu:slides/3.jpg"
+          "menu:slides/1.jpg"
         ],
         "displayDuration": 200,
         "fadeDuration": 40,
