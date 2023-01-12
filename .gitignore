@@ -27,4 +27,5 @@
 *.log
 usercache.json
 config/thaumicjei_itemstack_aspects.json
+Tech-Craft.eu-latest/
 Tech-Craft.eu-latest/**/*
