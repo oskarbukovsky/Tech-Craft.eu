@@ -57,7 +57,6 @@ jobs:
 
     - name: ReCreate release branch
       run: |
-        git branch -d release
         git push origin --delete release
         git branch release
 
