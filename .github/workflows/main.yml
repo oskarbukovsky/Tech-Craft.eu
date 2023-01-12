@@ -66,6 +66,8 @@ jobs:
 
     - name: Commit and push release zip
       run: |
+        git config --global user.email "janoskarbukovsky@gmail.com"
+        git config --global user.name "Worker#001"
         git add release.zip
         git commit -m "Added release zip file"
         git push -u origin release
