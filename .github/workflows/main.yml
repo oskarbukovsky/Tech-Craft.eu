@@ -46,31 +46,3 @@ jobs:
         tag: latest
         artifacts: "${{ github.workspace }}/Tech-Craft.eu_[1.12.2].zip"
         token: ${{ secrets.GITHUB_TOKEN }}
-
-
-  zip:
-    runs-on: ubuntu-latest
-
-    steps:
-    - name: Checkout
-      uses: actions/checkout@v2
-
-    - name: Create release branch
-      run: git branch release
-
-    - name: Checkout release branch
-      run: git checkout release
-
-    - name: Create release zip
-      run: zip -r release.zip .
-      
-    - name: Track release zip with LFS
-      run: git lfs track release.zip
-      
-    - name: Commit and push release zip
-      run: |
-        git config --global user.email "janoskarbukovsky@gmail.com"
-        git config --global user.name "Worker#001"
-        git add release.zip
-        git commit -m "Added release zip file"
-        git push -u origin release
