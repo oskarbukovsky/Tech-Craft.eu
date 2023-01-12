@@ -61,9 +61,6 @@ jobs:
     - name: Checkout release branch
       run: git checkout release
 
-    - name: Remove .git directory
-      run: rm -rf .git
-
     - name: Create release zip
       run: zip -r release.zip .
 
