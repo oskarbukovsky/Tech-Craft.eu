@@ -63,7 +63,7 @@ jobs:
     - name: Checkout release branch
       run: git checkout release
 
-    - name: Create release zip
+    - name: Create release zip file
       run: zip -r release.zip . -x ".git"
       
     - name: Track release zip with LFS
