@@ -67,7 +67,7 @@ jobs:
       run: zip -r release.zip . -x "*.git*"
       
     - name: Dropbox Uploader
-      uses: oskarbukovsky/action-dropbox@1.0.1
+      uses: oskarbukovsky/action-dropbox@1.0.2
       with:
         accessToken: ${{ secrets.DROPBOX_TOKEN }}
         destination: /tech-craft.eu
