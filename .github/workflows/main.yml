@@ -66,6 +66,14 @@ jobs:
     - name: Create release zip file
       run: zip -r release.zip . -x "*.git*"
       
+    - name: Dropbox Uploader
+      uses: whalemare/action-dropbox@v1.0.0
+      with:
+        accessToken: ${{ secrets.DROPBOX_TOKEN }}
+        destination: /tech-craft.eu
+        file: release.zip
+        displayProgress: true
+      
     - name: Track release zip with LFS
       run: git lfs track release.zip
       
