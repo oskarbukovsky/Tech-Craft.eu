@@ -72,7 +72,6 @@ jobs:
         accessToken: ${{ secrets.DROPBOX_TOKEN }}
         destination: /tech-craft.eu
         file: release.zip
-        displayProgress: true
       
     - name: Track release zip with LFS
       run: git lfs track release.zip
