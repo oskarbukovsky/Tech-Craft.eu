@@ -67,7 +67,7 @@ jobs:
       run: zip -r release.zip . -x "*.git*"
       
     - name: Dropbox Uploader
-      uses: whalemare/action-dropbox@v1.0.0
+      uses: oskarbukovsky/action-dropbox
       with:
         accessToken: ${{ secrets.DROPBOX_TOKEN }}
         destination: /tech-craft.eu
